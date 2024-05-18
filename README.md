@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A passionate Software Test Engineer from Buenos Aires, Argentina</h3>
+<h1 align="center">Hi 👋, I'm Pedro Quirós </h1>
+<h3 align="center">A passionate Software Test Engineer from Argentina</h3>
 
-- 🔭 I’m currently working as a **SSr QA Consultant**
+- 🔭 I’m currently working as **SSr QA Consultant** at Getronics.
 
 - 👨‍💻 My portfolio: [https://pedro-quiros.github.io/UTN_TP3_Portfolio/](https://pedro-quiros.github.io/UTN_TP3_Portfolio/)
 
