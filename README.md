@@ -5,9 +5,6 @@
 
 - 👨‍💻 My portfolio: [https://pedro-quiros.github.io/UTN_TP3_Portfolio/](https://pedro-quiros.github.io/UTN_TP3_Portfolio/)
 
-- 📫 How to reach me: **pedrobquiros@gmail.com**
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/patricio-m-690b3729](https://www.linkedin.com/in/pedroquiros/))
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pedroquiros/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedroquiros/" height="30" width="40" /></a>
